@@ -1,4 +1,4 @@
-// Function to rarrange the elements in O(1) extra space
+// Function to rearrange the elements in O(1) extra space
 // arr: input array
 // n: size of array
 void arrange(long long arr[], int n) {
